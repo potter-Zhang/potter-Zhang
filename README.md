@@ -3,5 +3,4 @@
 ## About me
 - 🏫 I'm currently an undergrad studying at Wuhan University, majoring in Computer Science and Technology in the Computer Science department.
    
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potter-Zhang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
